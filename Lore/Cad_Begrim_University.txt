@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" href="../img/favicon.png" type="image/png">
+        <title>Character Sheet Template</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="../css/bootstrap.css">
+        <link rel="stylesheet" href="../vendors/linericon/style.css">
+        <link rel="stylesheet" href="../css/font-awesome.min.css">
+        <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="../vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="../vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="../vendors/animate-css/animate.css">
+        <!-- main css -->
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/responsive.css">
+    </head>
+    <body>
+        
+        <!--================Header Menu Area =================-->
+		<header class="header_area">
+		</header>
+		<!--================Header Menu Area =================-->
+    
+        <!-- Start Sample Area -->
+			<section class="sample-text-area">
+				<div class="container">
+					<h3 class="text-heading title_color">The Mundus Faithful</h3>
+					<p>
+            To truly understand the Mundus Faithful, one must look back 2,000 years to the Arcane Conflict and the birth of Mundus. Mollinstead was rigidly divided into
+            an upperclass of those who could wield the power of the arcane, and an increasingly oppressed underclass of those who could not. The discovery of arcana was
+            originally welcomed by all. Trips that would take weeks by wagon now took only a brief stroll through a portal, conjured foods rendered starvation a thing of
+            the past. Those capable of wielding the arcane were championed by their people and asked only for their continued support. Things began to change once the 
+            Nere'Vei elves were introduced to this newfound power. Their once powerless race that lived in the outskirts of the forest found themselves in a position of
+            great power after discovering that every member of their race could effortlessly wield the arcane. The Nere'Vei quickly went from scattered villages to the 
+            most powerful empire that Mollinstead had ever known. Great marble cities adorned the landscape as the Nere'Vei wielded their arcane might to unite the land.
+            Once the region was under their control, the Nere'Vei found themselves bored and increasingly depraved. "What need do we have for peasants anymore, the arcane
+            takes care of all my needs and they can not so much as conjure dinner for me."</p>
+            
+            <p>The underclass found themselves without the support from the arcane that they had come to rely on and were forced to return to the land for sustenance. Through
+            years of working the land, they found themselves strong again, while the decadent Nere'Vei cities began to slump. Tensions continued to rise until the day in
+            which they finally snapped: the day Mundus became known. A commoner had been brought before the king of the Nere'Vei in Vellis for the crime of inciting rebellion
+            against his rule. He was to be made to kneel before the king and mocked by all before being executed before the crowd to make an example of any others who would dare to 
+            do the same. Witnesses described the man as seemingly almost extraordinarily ordinary, his face seemingly void of any defining features. As he was brought before
+            the king, he was asked if he even had a name. Without blinking or feeling, the man responded, "My name is Mundus." The king laughed, "Hmm, Mundus? I will see to it
+            that your name is spread far and wide as a reminder of what happens to those who would oppose me. A name to attach to the type of suffering reserved for legends.
+            But enough talk, guards: see to it that every living creature in Mollinstead shudders when they hear of the fate of Mundus." A royal guard cast a psionic blast 
+            custom crafted to inflict incomprehensible pain upon the man, but he did not so much as blink in response. Another cast a spell to force the man to grovel at his
+            feet and beg for mercy but again the man seemed unmoved. Fear began to set in and the guards set aside the theatrics and began to throw every spell they could think
+            of at the man, but fireballs seemed to fade away harmlessly, arcane blasts rolled off like rain down glass, and they suddenly found themselves unable to cast anything.
+            The man began to walk forward and grabbed the king by the throat and paused for a moment before he held him before the panicking crowd. The voice of Mundus boomed out,
+            "And your defiling of this holy land will no longer be tolerated." Mundus crushed the kings head like a grape before the crowd and everyone began to storm the
+            imperial palace beside him.</p>
+            
+            <p>Mundus began to take the champions among the commoners as followers of his own and taught them to revere the Earth and of their duty to defend it from sorceries which
+            were derived from other worlds. He taught them techniques to cleanse the arcane and how to rely on nature to grow strong so that they can perform their duties. Legends
+            spread far and wide that a god had appeared before the commoners and panic broke out amongst the Nere'Vei. With their arcane might nullifed, they were nothing. Though
+            previously content to stay amongst themselves in their cities, they now found the need to work together and set up a network of portals to communicate through. They 
+            worked day and night on underground research labs in search of a solution. As days went by, Mundus continued North and arrived with his army of followers and 
+            another city would meet with the same fate. Before they were all destroyed however, they made a breakthrough: the sigil stone. Every citizen poured all of their arcane might
+            into a sigil stone which could be used to teleport the entire city and surrounding area into the arcane realm where they would be safe from the vengeful god.</p>
+            
+            <p>Soon, Mundus and his army found themselves coming across massive craters in place of where the Nere'Vei cities should have been. He could sense the detonations of the 
+            sigil stones tearing away chunks of the Earth and knew that he would only find the same as he continued North. They intended to flee and all those North of where was 
+            heading had the numbers needed to escape in time. He also knew that their network of portals would allow them to teleport in great numbers to any of their cities and 
+            knew right away where he needed to go: Vellis. Surely they would make their last stand reclaiming their capital and avenging their king by rushing the city and teleporting
+            the land away. And so they rushed South to Vellis and found that the Nere'Vei were storming the city and carrying with them a great ark teeming with arcane energy. They 
+            placed it upon a pedestal and began to chant to it, but before they could activate it, Mundus let out a thunderous roar that deafened all within miles. All of the arcane 
+            energy sputtered out and the portal network collapsed. Even during his conquests, Mundus showed little emotion and it could be hard to tell how he truly felt, but there
+            was no mistaking it any more, it was a type of fury that the world had never known before this moment. Mountains surrounding the city crumbled to dust, buildings were 
+            flung around like leaves in the wind, and most of the city had been consumed by the Earth. Mundus turned before his followers who were miraculously unscathed and told
+            them, "My duty to you is complete. Go now and spread the word of what you have learned and witnessed and see to it that the pervasive magics of the outside realms are
+            never allowed to take hold again" before disappearing from sight.</p>
+            
+            <p>The followers came to be known as the Mundus Faithful and the religion spread far and wide as the evidence of what had unfolded was clear for all to see. Hundreds of years
+            later, it became the dominant religion of the Mollinstead area. However, as hundreds of years passed, the stigma of the arcane grew weaker and the faith of the people waned
+            in favor of the conveniences granted by the arcane. Today, the Southern Mollinstead region is the only area in which the Mundus Faithful are still the predominant religion.
+            Initiates brought into the faith must pass a trial in which they survive in the wilderness alone for a week and must return their unadorned robe with green dyes from the 
+            plants of the forest. Commoners in the faith may receive the rare honor of a gold leaf lining as a reward for great service to the faith. Those who become full fledged priests
+            must repeat the forest trial but are not allowed to return until they find a rare plant known as the mage's blood thistle which can be used to dye their robe again with a purple
+            hugh. The last and final honor is a gold leaf lining around their now purple robe to designate them as an arch priest or priestess of the Mundus Faithful.</p>
+            
+            <p>The ritual of Mundus is a ritual in which the Mundus Faithful offer up anything with arcane energy within it to be cleansed by Mundus. The ritual can take between
+            minutes and hours depending on the volume of arcane energy and the faith of the followers present. Once complete, the arcane energy is dispelled and the follower is
+            rewarded with a blessing that can block magic from harming them, a blessing that grants them strength from Mundus, or a golem known as a servant of Mundus to assist
+            the follower. The ritual can also cleanse all of the harmful effects of arcane exposure to anyone suffering arcane exposure sickness with the same effect.</p>
+            
+            
+            
+					</p>
+				</div>
+			</section>
+			<!-- End Sample Area -->
+      
+			<!-- Start Align Area -->
+		</footer>
+		<!--================End Footer Area =================-->
+        
+        
+        
+        
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="../js/jquery-3.2.1.min.js"></script>
+        <script src="../js/popper.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/stellar.js"></script>
+        <script src="../vendors/lightbox/simpleLightbox.min.js"></script>
+        <script src="../vendors/nice-select/js/jquery.nice-select.min.js"></script>
+        <script src="../vendors/isotope/imagesloaded.pkgd.min.js"></script>
+        <script src="../vendors/isotope/isotope-min.js"></script>
+        <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+        <script src="../vendors/jquery-ui/jquery-ui.js"></script>
+        <script src="../js/jquery.ajaxchimp.min.js"></script>
+        <script src="../vendors/counter-up/jquery.waypoints.min.js"></script>
+        <script src="../vendors/counter-up/jquery.counterup.js"></script>
+        <script src="../js/mail-script.js"></script>
+        <script src="../js/theme.js"></script>
+    </body>
+</html>
